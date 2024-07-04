@@ -11,6 +11,7 @@ Content Overview:
 Markdown Cells: Title, introduction, objectives, and documentation of exercises.
 Code Cells: Python code for arithmetic operations and conversions (e.g., multiplying integers, converting minutes to hours).
 Table of Data Science Tools: Lists three open-source development environments for data science.
+
 Tools Used:
 
 Jupyterlite Notebook: Lightweight, interactive environment for educational purposes.
@@ -18,6 +19,7 @@ GitHub: Version control, collaboration, and sharing of the notebook.
 Learning Outcomes:
 
 Gain practical experience in Markdown for documentation, Python for data manipulation, and creating informative tables.
+
 Next Steps:
 
 Enhance the notebook with advanced data science techniques, complex visualizations, and additional Python libraries.
